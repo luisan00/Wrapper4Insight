@@ -1,10 +1,10 @@
+#!/usr/bin/env python3.4
+
 # A simple Python wrapper for insight.
-#
-# See %repository% repository for a detailed information.
 #
 # This software is under a MIT license,
 # see LICENSE file for more information.
-# (c) 2015 luisan00
+# (c) 2015-2016 luisan00
 
 from collections import OrderedDict
 import httplib
