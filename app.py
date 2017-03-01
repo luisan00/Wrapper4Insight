@@ -3,7 +3,7 @@
 # A simple Python wrapper for insight.
 # This software is under a MIT license,
 # see LICENSE file for more information.
-# (c) 2015-2016 luisan00
+# (c) 2015-2017 luisan00
 
 from collections import OrderedDict
 import httplib
