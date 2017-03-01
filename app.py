@@ -13,16 +13,16 @@ from config import host, port
 # routes
 route = {
          'status': {
-                    'getInfo': '/api/status?q=getInfo',
-                    'getDifficulty': '/api/status?q=getDifficulty',
-                    'getBestBlockHash': '/api/status?q=getBestBlockHash',
-                    'getLastBlockHash': '/api/status?q=getLastBlockHash'
+                    'getInfo': '/insight-api/status?q=getInfo',
+                    'getDifficulty': '/insight-api/status?q=getDifficulty',
+                    'getBestBlockHash': '/insight-api/status?q=getBestBlockHash',
+                    'getLastBlockHash': '/insight-api/status?q=getLastBlockHash'
                     },
-         'sync' : '/api/sync',
-         'peer' : '/api/peer',
-         'tx' : '/api/tx/%s',
-         'block' : '/api/block/%s',
-         'address': '/api/addr/%s'
+         'sync' : '/insight-api/sync',
+         'peer' : '/insight-api/peer',
+         'tx' : '/insight-api/tx/%s',
+         'block' : '/insight-api/block/%s',
+         'address': '/insight-api/addr/%s'
          }
 
 # messages
