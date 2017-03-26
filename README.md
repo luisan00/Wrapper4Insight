@@ -12,6 +12,7 @@ see <a href="https://github.com/luisan00/Wrapper4Insight/blob/master/LICENSE">LI
 <hr>
 © copyright 2015-2017 <a href="https://github.com/luisan00">luisan00</a>.
 <br/>
+<br/>
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
